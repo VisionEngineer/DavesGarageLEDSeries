@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "ServoControl",
+			"path": "..\\..\\Rotary-Train\\ESP8266_SERVO_CONTROLLER-master\\ESP8266_SERVO_CONTROLLER-master\\ESP8266_SERVO_CONTROL\\ServoControl"
+		}
+	],
+	"settings": {}
+}

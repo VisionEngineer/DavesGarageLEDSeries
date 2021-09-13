@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "RailLighting",
+			"path": "..\\Rail Lighting\\RailLighting"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cstddef": "cpp"
+		}
+	}
+}
